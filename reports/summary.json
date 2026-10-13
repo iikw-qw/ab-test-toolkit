@@ -1,0 +1,13 @@
+{
+  "sample_size_per_group": 3839,
+  "empirical_power_at_that_size": 0.786,
+  "aa_false_positive_rate": 0.043,
+  "ztest_diff": 0.0164,
+  "ztest_p_value": 0.0212,
+  "revenue_welch_p_value": 2.45e-05,
+  "revenue_bootstrap_ci": [
+    1.38,
+    3.79
+  ],
+  "cuped_ci_width_reduction": 0.276
+}
